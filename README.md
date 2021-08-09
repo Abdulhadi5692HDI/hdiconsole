@@ -7,7 +7,7 @@ A command line console thst I am working on
 Get early source #:
 
 Linux :
-wget http://gethdic.6te.net/* | bash ins
+wget http://gethdic.6te.net/* | bash ins #Outdated
 ```
 >or
 ```markdown
